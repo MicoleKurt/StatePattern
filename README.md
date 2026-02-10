@@ -12,5 +12,5 @@ Refer to the UML Class Diagram
 
 
 ## Class Diagram
-![Uploading image.png…]()
+<img width="790" height="1200" alt="image" src="https://github.com/user-attachments/assets/a79d9663-2423-4e79-9429-c0bca849cd64" />
 
